@@ -66,8 +66,8 @@ class _MyHeaderDrawerState extends State<MyHeaderDrawer> {
           decoration: BoxDecoration(
               shape: BoxShape.circle,
               image: const DecorationImage(
-                  // image: AssetImage('assets/girl.png'),
-                  image: AssetImage('assets/user.png'),
+                  image: AssetImage('assets/girl.png'),
+                  // image: AssetImage('assets/user.png'),
                   // image: AssetImage('assets/male.jpg'),
                   fit: BoxFit.scaleDown)),
         ),
